@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CCNPing</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="status">App status</string>
+    
+    <string name="server">Start server</string>
+    <string name="client">Start client</string>
+
+</resources>
