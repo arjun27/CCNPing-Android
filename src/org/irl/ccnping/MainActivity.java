@@ -117,7 +117,7 @@ public class MainActivity extends Activity implements OnClickListener {
 					_helper.cancel();
 					_helper = null;
 					_started = false;
-					_serverButton.setText("Start Client");
+					_clientButton.setText("Start Client");
 				}
 			} catch (MalformedContentNameStringException e) {
 				// TODO Auto-generated catch block
