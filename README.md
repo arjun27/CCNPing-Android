@@ -1,7 +1,7 @@
 CCN-Ping-Android
 ==============
 
-A naive ping server client Android application for CCNx
+A naive ping server client Android application for CCNx, originally made to test NDNBlue. The app is compatible with ccnping on desktops.
 
 ### Prerequisites ###
 * CCNx apps on Android should be installed and running
@@ -21,5 +21,3 @@ A naive ping server client Android application for CCNx
 * Open app on device
 * Enter prefix
 * Start server or client
-
-This ping app was made to test NDNBlue and is compatible with ccnping on desktops.
